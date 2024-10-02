@@ -10,6 +10,8 @@ The goal of this project is to perform data analytics on twitter data using vari
 ## Technology Used
 - Programming Language - Python
 - Workflow Management Tool - Airflow
+
+
 Amazon Web Services
 1. EC2 Instance
 2. S3 storage 
